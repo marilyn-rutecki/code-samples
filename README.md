@@ -1,5 +1,5 @@
 This repo contains different code samples in Python and R from the following files:
-1. app.r: Visualizaing the housing market and land use in San Francisco through 8 data visualizations (many interactive), with data sources including the Federal Reserve Economic Data, SF Open Data Portal Building Permits data, and SF Open Data Land Use data. Deployed on web via R Shiny.
+1. app.r: Visualizing the housing market and land use in San Francisco through 8 data visualizations (many interactive), with data sources including the Federal Reserve Economic Data, SF Open Data Portal Building Permits data, and SF Open Data Land Use data. Deployed on web via R Shiny.
 
 2. Rutecki_Stage5.ipynb: Project for Data Science II class, using machine learning classifiers on walkability and census data in Los Angeles. Research questions include: Which demographic variables, including income and race, can best predict walkability in a given neighborhood in Los Angeles?
 and ; How are demographic characteristics linked to urban design?
